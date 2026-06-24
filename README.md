@@ -226,13 +226,13 @@ codex plugin add codex-ai-ppt@codex-ai-ppt
 Start from a topic:
 
 ```text
-/codex-ai-ppt:spark 做一个关于 AI 历史的 PPT，面向产品团队，8 页，科技现代风格
+[@codex-ai-ppt](plugin://codex-ai-ppt@codex-ai-ppt) /codex-ai-ppt:spark 做一个关于 AI 历史的 PPT，面向产品团队，8 页，科技现代风格
 ```
 
 Start from a structured outline:
 
 ```text
-/codex-ai-ppt:outline 根据下面大纲生成图片式 PPT，商务简约风格
+[@codex-ai-ppt](plugin://codex-ai-ppt@codex-ai-ppt) /codex-ai-ppt:outline 根据下面大纲生成图片式 PPT，商务简约风格
 
 # AI 产品路线图
 ## 背景
@@ -249,7 +249,7 @@ Start from a structured outline:
 Start from complete page descriptions:
 
 ```text
-/codex-ai-ppt:brief 使用科技现代风格，把下面页面描述直接生成 PPT
+[@codex-ai-ppt](plugin://codex-ai-ppt@codex-ai-ppt) /codex-ai-ppt:brief 使用科技现代风格，把下面页面描述直接生成 PPT
 
 ## page-001 封面
 Visible text:
