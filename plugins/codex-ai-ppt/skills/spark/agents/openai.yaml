@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Spark"
+  short_description: "Turn a PPT idea into confirmed artifacts and a /goal handoff."
+  default_prompt: "/codex-ai-ppt:spark 做一个关于 AI 历史的 PPT"

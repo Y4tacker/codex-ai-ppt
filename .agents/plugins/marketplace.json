@@ -1,0 +1,20 @@
+{
+  "name": "codex-ai-ppt",
+  "interface": {
+    "displayName": "Codex AI PPT"
+  },
+  "plugins": [
+    {
+      "name": "codex-ai-ppt",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex-ai-ppt"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

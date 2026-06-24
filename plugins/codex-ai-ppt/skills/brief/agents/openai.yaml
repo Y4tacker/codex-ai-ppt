@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Brief"
+  short_description: "Use complete page descriptions to prepare image PPT generation."
+  default_prompt: "/codex-ai-ppt:brief 把这些页面描述直接生成 PPT"

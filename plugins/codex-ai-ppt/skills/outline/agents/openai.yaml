@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Outline"
+  short_description: "Parse an outline into confirmed PPT artifacts."
+  default_prompt: "/codex-ai-ppt:outline 根据这份大纲生成图片式 PPT"
